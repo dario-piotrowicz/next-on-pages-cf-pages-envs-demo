@@ -1,4 +1,4 @@
-# next-on-pages CF_PAGES Environment Variables Demo
+# `next-on-pages` CF_PAGES Environment Variables Demo
 
 This very minimal demo shows how to access the [Cloudflare Pages injected environment variable](https://developers.cloudflare.com/pages/configuration/build-configuration/#environment-variables)
 (i.e. `CF_PAGES`, `CF_PAGES_BRANCH`, `CF_PAGES_COMMIT_SHA` and `CF_PAGES_URL`) in next-on-pages applications.
