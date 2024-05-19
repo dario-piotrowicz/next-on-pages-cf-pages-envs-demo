@@ -37,4 +37,6 @@ next-env.d.ts
 
 # wrangler files
 .wrangler
-.dev.vars
+# NOTE: .dev.vars should generally be gitignored!
+#       I've commented it out just for to make this example clearer
+# .dev.vars
